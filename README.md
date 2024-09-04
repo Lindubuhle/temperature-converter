@@ -18,8 +18,8 @@ A simple web-based temperature converter that allows users to convert temperatur
 ## Technologies Used
 
 - **HTML**: For the structure of the web page.
-- **CSS**: For styling the web page and making it visually appealing.
-- **JavaScript**: For handling the conversion logic.
+- **CSS**: For styling the web page.
+- **JavaScript**: For conversion.
 
 ## Installation
 
